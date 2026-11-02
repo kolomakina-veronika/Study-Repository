@@ -1,4 +1,4 @@
-text = "Hello World! 6767"
+text = "Hello World! 1488"
 Upper_list = []
 Lower_list = []
 Number_list = []
